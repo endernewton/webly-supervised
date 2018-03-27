@@ -1,5 +1,5 @@
 # webly-supervised
-Legacy code recovered from the project done for the webly-supervised network paper.
+**Legacy** code recovered from the project done for the webly-supervised network paper.
 
 The code is divided into two parts:
 
