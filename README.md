@@ -1,6 +1,8 @@
 # webly-supervised
 **Legacy** code recovered from the project done for the webly-supervised network paper.
 
+Please see the project website [here](http://xinleic.xyz/web.html), which includes models and data.
+
 The code is divided into two parts:
 
 1. `layers` folder contains the loss function implemented to encode the relationship graph. Specifically, it computes the cross entropy between the soft-max output and the smoothed target category.
